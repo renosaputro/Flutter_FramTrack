@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appTitle": "FarmTrack",
+  "language": "Language",
+  "chooseLanguage": "Choose Language",
+  "languageDescription": "Language used in the app",
+  "Indonesia": "Indonesia",
+  "English": "English"
+}

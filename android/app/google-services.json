@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "413695432853",
+    "project_id": "smart-farming-d51aa",
+    "storage_bucket": "smart-farming-d51aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413695432853:android:2f2e9374aa721d708ae39c",
+        "android_client_info": {
+          "package_name": "com.farmtrack.samar_farming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413695432853-rpkik3sc9bgirgsik9o53cf1vcgb4nbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmtrack.samar_farming",
+            "certificate_hash": "e42d45f5ef8e3b2392de6987afc1256e6b8bd41a"
+          }
+        },
+        {
+          "client_id": "413695432853-b0kr922hnt9rh5l8iaaind3lohudub37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55ZTmV7b4LxxeZ36kJAmTK7Azo4CILg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413695432853-b0kr922hnt9rh5l8iaaind3lohudub37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413695432853-ge9qr8oj2te0iacpjoimind6f0t88rqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farmtrack.samarFarming"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
